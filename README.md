@@ -1,17 +1,24 @@
 * 👋 Hi, I’m @julianhdz
-* 👀 I’m interested in Martech
-  * Marketing Automation
+* 👀 I’m interested in Martech platforms
+  * Marketing Automation:
     * Salesforce Marketing Cloud
     * Adobe Marketing Cloud
-    * Braze*
-  * Analytics
+    * Braze
+    * Acquia - Mautic
+  * Analytics:
     * GA3/GA4
     * Adobe Analytics
-  * Data Visualization
+    * Matomo
+    * Webtrekk
+  * Customer Data Platforms:
+    * Treasure Data
+    * Segment
+    * Adobe Experience Platform 
+  * Data Visualization:
     * Google Data Studio
     * Tableau
     * Datorama
-* 🌱 I’m currently learning about Customer Data Platforms (CDP's) and integrations in Martech ecosystem
+* 🌱 I’m currently learning more about Customer Data Platforms (CDP's) and integrations in Martech ecosystems
 * 💞️ I’m looking to collaborate on Martech projects
 * 📫 How to reach me: juliher2189@gmail.com
 
