@@ -1,4 +1,4 @@
-* 👋 Hi, I’m @julianhdz
+* 👋 Hi, I’m @julianhdz with technical + marketing skills.
 * 👀 I’m interested in Martech platforms
   * Marketing Automation:
     * Salesforce Marketing Cloud
